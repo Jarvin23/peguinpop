@@ -24,7 +24,7 @@ body{
 	width:200px;
 	height:200px;
 	float:left;
-	background-image:url('/Users/Jarvin MAbuti/Desktop/Pop-Up-Penguins/Media/mound_1.png');
+	background-image:url('mound_1.png');
 }
 
 .penguin2:hover{
